@@ -12,4 +12,4 @@
 
 ----------------
 Note:
-ROM based on ESP32core2.0.5 & BlynkGOv3
+ROM based on ESP32core1.0.6 & BlynkGOv2.0.36
